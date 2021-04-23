@@ -47,4 +47,4 @@ def foobar(i:int, b:bool, s:str, li:[[int]]):
     if i in li:
         print(True)
 
-foobar(2, "False", True, 5)
+foobar(2, "False", True, [5])
